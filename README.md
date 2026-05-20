@@ -1,2 +1,3 @@
 # MulticycleComputer1
 This is a custom built 36-bit multicycle CPU built with Harvard Architecture. The project was made with System Verilog and was simulated in EDA Playground using Aldec Riviera Pro. The CPU uses reverse endian logic, and includes an instruction memory, data memory, instruction decoder, register file, ALU, branching, store/load support, program counter, ALU output register, and a memory data register. The test bench performs two successful programs: A memory-based addition where A + B = C, as well as a for loop program that adds up every number from 0 to 10.
+EDA Playground Link: https://www.edaplayground.com/x/KEnY
